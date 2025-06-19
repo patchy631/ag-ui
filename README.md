@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0c1ec566-050b-4ef8-ab89-15be41abe64f" height="300px" />
+</div>  
 
 # <img src="https://github.com/user-attachments/assets/ebc0dd08-8732-4519-9b6c-452ce54d8058" alt="ag-ui Logo" height="42px" /> AG-UI: The Agent-User Interaction Protocol
 AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to front-end applications. Built for simplicity and flexibility, it enables seamless integration between your AI agents and user interfaces.
@@ -35,9 +37,7 @@ AG-UI is complementary to the other 2 top agentic protocols
 - A2A allows agents to communicate with other agents
 - AG-UI brings agents into user-facing applications
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0c1ec566-050b-4ef8-ab89-15be41abe64f" height="300px" />
-</div>  
+
    
 ## Features
 
